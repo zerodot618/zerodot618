@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm zerodot618</h1>
 
+- 🔭 I’m currently working on web2 as a backend that use php/golang language.
+- 🌱 I’m currently learning web3/blockchain.
 <!--
 **zerodot618/zerodot618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
